@@ -14,5 +14,6 @@ namespace EdmundsVehicleAPI.PCL
 
         //TODO: Replace the ApiKey with an appropriate value
         public static string ApiKey = "u7m5dbqkuyfuh6s3ud557tv5";
+
     }
 }
